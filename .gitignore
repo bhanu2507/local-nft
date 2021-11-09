@@ -1,3 +1,5 @@
+fs/
+
 # Logs
 logs
 *.log
